@@ -1,0 +1,13 @@
+C:\Users\Felipe\OneDrive\Área de Trabalho\Lista_Objetos_17-12\bin\Debug\netcoreapp3.1\Lista_Objetos_17-12.exe
+C:\Users\Felipe\OneDrive\Área de Trabalho\Lista_Objetos_17-12\bin\Debug\netcoreapp3.1\Lista_Objetos_17-12.deps.json
+C:\Users\Felipe\OneDrive\Área de Trabalho\Lista_Objetos_17-12\bin\Debug\netcoreapp3.1\Lista_Objetos_17-12.runtimeconfig.json
+C:\Users\Felipe\OneDrive\Área de Trabalho\Lista_Objetos_17-12\bin\Debug\netcoreapp3.1\Lista_Objetos_17-12.runtimeconfig.dev.json
+C:\Users\Felipe\OneDrive\Área de Trabalho\Lista_Objetos_17-12\bin\Debug\netcoreapp3.1\Lista_Objetos_17-12.dll
+C:\Users\Felipe\OneDrive\Área de Trabalho\Lista_Objetos_17-12\bin\Debug\netcoreapp3.1\Lista_Objetos_17-12.pdb
+C:\Users\Felipe\OneDrive\Área de Trabalho\Lista_Objetos_17-12\obj\Debug\netcoreapp3.1\Lista_Objetos_17-12.csprojAssemblyReference.cache
+C:\Users\Felipe\OneDrive\Área de Trabalho\Lista_Objetos_17-12\obj\Debug\netcoreapp3.1\Lista_Objetos_17-12.AssemblyInfoInputs.cache
+C:\Users\Felipe\OneDrive\Área de Trabalho\Lista_Objetos_17-12\obj\Debug\netcoreapp3.1\Lista_Objetos_17-12.AssemblyInfo.cs
+C:\Users\Felipe\OneDrive\Área de Trabalho\Lista_Objetos_17-12\obj\Debug\netcoreapp3.1\Lista_Objetos_17-12.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\OneDrive\Área de Trabalho\Lista_Objetos_17-12\obj\Debug\netcoreapp3.1\Lista_Objetos_17-12.dll
+C:\Users\Felipe\OneDrive\Área de Trabalho\Lista_Objetos_17-12\obj\Debug\netcoreapp3.1\Lista_Objetos_17-12.pdb
+C:\Users\Felipe\OneDrive\Área de Trabalho\Lista_Objetos_17-12\obj\Debug\netcoreapp3.1\Lista_Objetos_17-12.genruntimeconfig.cache
